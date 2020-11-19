@@ -7,4 +7,4 @@ open Feliz
 importAll "./styles/main.scss"
 
 
-ReactDOM.render(App.counter(), document.getElementById "feliz-app")
+ReactDOM.render(App.App(), document.getElementById "feliz-app")
